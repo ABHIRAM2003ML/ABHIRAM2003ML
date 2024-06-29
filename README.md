@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm K Abhiram</h1>
 <h3 align="center">A passionate developer and Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiram2003ml&label=Profile%20views&color=0e75b6&style=flat" alt="abhiram2003ml" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanduru-abhiram&label=Profile%20views&color=0e75b6&style=flat" alt="kanduru-abhiram" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiram2003ml" alt="abhiram2003ml" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanduru-abhiram" alt="kanduru-abhiram" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kanduru_abhiram" target="blank"><img src="https://img.shields.io/twitter/follow/kanduru_abhiram?logo=twitter&style=for-the-badge" alt="kanduru_abhiram" /></a> </p>
 
